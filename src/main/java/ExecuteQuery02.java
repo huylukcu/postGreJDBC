@@ -17,4 +17,5 @@ public class ExecuteQuery02 {
 
                 System.out.println(resultSet1.getString("company")+"--"+resultSet1.getInt("number_of_employees"));
 
-            }}}
+            }
+    }}
